@@ -1,3 +1,1 @@
 # Data Analysis Projects
-# INNOMATICS-Data-Science-HIRING-CHALLENGE
-# INNOMATICS-Data-Science-HIRING-CHALLENGE
